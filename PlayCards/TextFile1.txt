@@ -1,0 +1,12 @@
+﻿card
+	setcard
+	comparecards
+hand
+	hascards
+	flipcards
+deck
+	hasdeck
+	shuffle
+	deal(handlist)
+warmachine
+	statemachine

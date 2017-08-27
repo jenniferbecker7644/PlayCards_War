@@ -1,0 +1,8 @@
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\bin\Debug\ConsoleCardsWar.exe.config
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\bin\Debug\ConsoleCardsWar.exe
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\bin\Debug\ConsoleCardsWar.pdb
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\bin\Debug\PlayCards.dll
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\bin\Debug\PlayCards.pdb
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\obj\Debug\ConsoleCardsWar.csprojResolveAssemblyReference.cache
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\obj\Debug\ConsoleCardsWar.exe
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\ConsoleCardsWar\obj\Debug\ConsoleCardsWar.pdb

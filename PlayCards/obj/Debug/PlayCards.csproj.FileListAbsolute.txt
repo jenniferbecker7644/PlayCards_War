@@ -1,0 +1,5 @@
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\PlayCards\bin\Debug\PlayCards.dll
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\PlayCards\bin\Debug\PlayCards.pdb
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\PlayCards\obj\Debug\PlayCards.dll
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\PlayCards\obj\Debug\PlayCards.pdb
+C:\Users\jenni\OneDrive\Documents\Visual Studio 2015\Projects\Deacom\PlayCards\PlayCards\obj\Debug\PlayCards.csprojResolveAssemblyReference.cache
